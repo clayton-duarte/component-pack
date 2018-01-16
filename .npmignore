@@ -1,0 +1,5 @@
+# let only the module files to be published
+
+/node_modules
+*.log
+.gitignore

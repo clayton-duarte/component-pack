@@ -1,0 +1,33 @@
+{
+  "name": "component-pack",
+  "version": "1.0.0",
+  "description": "Create a completely exportable component",
+  "main": "bin/index.js",
+  "scripts": {},
+  "devDependencies": {
+    "chalk": "^2.3.0",
+    "cross-spawn": "^5.1.0",
+    "ncp": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clayton-duarte/component-pack.git"
+  },
+  "keywords": [
+    "node-module",
+    "package",
+    "seed",
+    "es6",
+    "webpack",
+    "babel",
+    "react",
+    "jest",
+    "sass"
+  ],
+  "author": "Clayton Duarte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clayton-duarte/component-pack/issues"
+  },
+  "homepage": "https://github.com/clayton-duarte/component-pack#readme"
+}

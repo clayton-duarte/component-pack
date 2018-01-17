@@ -1,12 +1,15 @@
 {
   "name": "component-pack",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "Create a completely exportable component",
   "main": "bin/index.js",
+  "bin": "bin/component-pack.js",
+  "preferGlobal": true,
   "scripts": {},
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.3.0",
     "cross-spawn": "^5.1.0",
+    "global-prefix": "^1.0.2",
     "ncp": "^2.0.0"
   },
   "repository": {
